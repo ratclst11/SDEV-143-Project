@@ -5,4 +5,4 @@ It will include my work with branches, issues, milestones, collaboration steps, 
 
 Updating the project to meet module 6 requirements.
 
-Adding this line to create a conflict scenario for the assigment.
+Adding this line to create a conflict scenario for the assigment, I am updating this line to create a conflict.
