@@ -6,4 +6,10 @@ It will include my work with branches, issues, milestones, collaboration steps, 
 Updating the project to meet module 6 requirements.
 
 
+
 This is the MAIN branch version of the conflict lineand working on the diff command.
+
+
+This is the commit I will cherry-pick into main.
+
+
