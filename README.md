@@ -4,3 +4,6 @@ This repository is for my SDEV-143 Git Version Control Systems project.
 It will include my work with branches, issues, milestones, collaboration steps, and file updates as required by the assignment.
 
 Updating the project to meet module 6 requirements.
+
+
+This is the MAIN branch version of the conflict line.
