@@ -7,5 +7,9 @@ Updating the project to meet module 6 requirements.
 
 Adding this line to create a conflict scenario for the assigment, I am updating this line to create a conflict.
 
+
 This is the MAIN branch version of the conflict lineand working on the diff command.
+
+
+This is the commit I will cherry-pick into main.
 
